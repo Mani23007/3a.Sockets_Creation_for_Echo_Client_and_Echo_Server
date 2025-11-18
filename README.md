@@ -34,8 +34,13 @@ while True:
 ```
 
 ## OUPUT:
+### Client:
 
 <img width="811" height="417" alt="EXP3a output" src="https://github.com/user-attachments/assets/04c04409-da74-475f-bbb6-22d96af5e401" />
+
+### Server:
+<img width="1035" height="308" alt="EXP3a output(2)" src="https://github.com/user-attachments/assets/deb2457b-a02c-4827-90e1-2968d6ad889c" />
+
 
 ## RESULT:
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
